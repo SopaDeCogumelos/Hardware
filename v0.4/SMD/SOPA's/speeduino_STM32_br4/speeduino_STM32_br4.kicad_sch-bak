@@ -1770,48 +1770,6 @@
 			)
 		)
 	)
-	(sheet
-		(at 24.13 172.72)
-		(size 12.7 13.97)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e071bc09-2f3a-4e1a-a498-992cce122685")
-		(property "Sheetname" "power_circuit"
-			(at 24.13 172.0084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 24.13 187.2746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "speeduino_STM32_br4"
-				(path "/87f2f034-ae41-4459-a8ef-7cbb8b22001e"
-					(page "2")
-				)
-			)
-		)
-	)
 	(sheet_instances
 		(path "/"
 			(page "1")
