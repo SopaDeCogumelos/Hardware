@@ -559,12 +559,66 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Digikey Part Number",
+          "name": "Digikey Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "RS Part Number",
+          "name": "RS Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "RS Price/Stock",
+          "name": "RS Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "URL",
+          "name": "URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Allied_Number",
+          "name": "Allied_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -612,6 +666,14 @@
     [
       "87f2f034-ae41-4459-a8ef-7cbb8b22001e",
       "Root"
+    ],
+    [
+      "c4212797-9033-493e-b533-3c0d373c4769",
+      "Fuel"
+    ],
+    [
+      "e9a6588a-f2be-4bbf-b3d2-a602e1fd1f1f",
+      "Ignition"
     ]
   ],
   "text_variables": {}
